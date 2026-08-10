@@ -85,4 +85,8 @@ content-type: application/json
 Ảnh đặt tại thư mục `screenshots/`:
 
 - `screenshots/dashboard.png` — trang quản lý Render Blueprint dịch vụ day12-agent và day12-redis.
-- `screenshots/health.png` — kết quả gọi /health và /ready trực tiếp từ live domain.
+- `screenshots/health.png` — kết quả gọi /health trực tiếp từ live domain.
+- `screenshots/ready.png` — kết quả gọi /ready trực tiếp từ live domain.
+- `screenshots/ask.png` — kết quả gọi /ask không truyền API key (401 Unauthorized).
+- `screenshots/ask(có key).png` — kết quả gọi /ask truyền API key live thành công (200 OK).
+
